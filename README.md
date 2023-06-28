@@ -19,3 +19,5 @@ Example Dockerfile for image created on this. Creates domain called example and 
     
     # expose domains admin and http-port
     EXPOSE 6048 6080
+
+.. No se puede inicializar panel admin Glassfish por certificaciones vencidas del mismo.
